@@ -1,2 +1,3 @@
 install.packages("tidyverse")
-library(tidiverese)
+library(tidyverse)
+y<-2+3
